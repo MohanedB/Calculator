@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Calculator" Height="450" Width="320">
     <Window.Background>
-        <ImageBrush ImageSource="Reawakened_Sung_Jin-Woo.jpg" Stretch="Fill" />
+        <ImageBrush ImageSource="Bland.jpg" Stretch="Fill" />
     </Window.Background>
     <Grid>
         <Grid.ColumnDefinitions>
